@@ -1,0 +1,100 @@
+pression artérielle élevée Occ: 9
+pression artérielle élevée Occ: 8
+pression artérielle élevée Occ: 7
+bouche sèche Occ: 7
+bouche sèche Occ: 6
+pression artérielle élevée Occ: 6
+fièvre Occ: 6
+inflammation Occ: 6
+bouche sèche Occ: 5
+pression artérielle élevée Occ: 5
+inflammation Occ: 5
+fièvre Occ: 5
+toux Occ: 5
+inflammation Occ: 4
+bouche sèche Occ: 4
+pression artérielle élevée Occ: 4
+nausée Occ: 4
+fièvre Occ: 4
+étourdissement Occ: 4
+toux Occ: 4
+anxiété Occ: 4
+vision floue Occ: 4
+inflammation Occ: 3
+bouche sèche Occ: 3
+nausée Occ: 3
+pression artérielle élevée Occ: 3
+étourdissement Occ: 3
+insomnie Occ: 3
+tremblement Occ: 3
+fièvre Occ: 3
+toux Occ: 3
+vision floue Occ: 3
+éruption cutanée Occ: 3
+nuque raide Occ: 3
+pupilles dilatées Occ: 3
+pression artérielle basse Occ: 3
+anxiété Occ: 3
+bouche sèche Occ: 2
+inflammation Occ: 2
+toux Occ: 2
+nausée Occ: 2
+tremblement Occ: 2
+douleur abdominale Occ: 2
+mal de tête Occ: 2
+anxiété Occ: 2
+pression artérielle élevée Occ: 2
+essoufflement Occ: 2
+fièvre Occ: 2
+insomnie Occ: 2
+étourdissement Occ: 2
+vision floue Occ: 2
+pression artérielle basse Occ: 2
+pupilles dilatées Occ: 2
+pupilles contractées Occ: 2
+nuque raide Occ: 2
+arythmies Occ: 2
+éruption cutanée Occ: 2
+insomnie Occ: 1
+toux Occ: 1
+bouche sèche Occ: 1
+tremblement Occ: 1
+douleur abdominale Occ: 1
+étourdissement Occ: 1
+fièvre Occ: 1
+pression artérielle basse Occ: 1
+inflammation Occ: 1
+anxiété Occ: 1
+nausée Occ: 1
+nuque raide Occ: 1
+pression artérielle élevée Occ: 1
+essoufflement Occ: 1
+mal de tête Occ: 1
+vision floue Occ: 1
+pupilles dilatées Occ: 1
+éruption cutanée Occ: 1
+pupilles contractées Occ: 1
+arythmies Occ: 1
+fièvre Occ: 0
+pupilles dilatées Occ: 0
+bouche sèche Occ: 0
+inflammation Occ: 0
+tremblement Occ: 0
+douleur abdominale Occ: 0
+pression artérielle élevée Occ: 0
+nuque raide Occ: 0
+toux Occ: 0
+insomnie Occ: 0
+mal de tête Occ: 0
+pupilles contractées Occ: 0
+nausée Occ: 0
+essoufflement Occ: 0
+vision floue Occ: 0
+étourdissement Occ: 0
+pression artérielle basse Occ: 0
+arythmies Occ: 0
+anxiété Occ: 0
+rétention d'eau Occ: 0
+aveuglement Occ: 0
+rythme cardiaque rapide Occ: 0
+éruption cutanée Occ: 0
