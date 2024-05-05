@@ -23,6 +23,8 @@ public class Client2 {
         frame.add(panel);
         placeComponents(panel);
 
+        frame.setLocationRelativeTo(null);
+
         frame.setVisible(true);
     }
 
